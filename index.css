@@ -1,5 +1,7 @@
 h1 {
   color: pink;
-  font-size: 40px;
+  font-size: 60px;
+  font-family: cursive;
   margin: 0 auto;
+  text-align: center;
 }
